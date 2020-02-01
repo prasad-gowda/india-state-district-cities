@@ -4,7 +4,7 @@
     "status": "Union Territory",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Nicobar",
       "North & Middle Andaman",
       "South Andaman"
@@ -37,7 +37,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Anantapur",
       "Chittoor",
       "East Godavari",
@@ -1035,7 +1035,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Anjaw",
       "Changlang",
       "Dibang Valley",
@@ -1196,7 +1196,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Baksa",
       "Barpeta",
       "Bongaigaon",
@@ -2303,7 +2303,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Araria",
       "Arwal",
       "Aurangabad",
@@ -3346,7 +3346,7 @@
     "status": "Union Territory",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Chandigarh"
     ],
     "cities": [
@@ -3387,7 +3387,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Bastar",
       "Bijapur",
       "Bilaspur",
@@ -4325,7 +4325,7 @@
     "status": "Union Territory",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Dadra & Nagar Haveli"
     ],
     "cities": [
@@ -4366,7 +4366,7 @@
     "status": "Union Territory",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Daman",
       "Diu"
     ],
@@ -4418,7 +4418,7 @@
     "status": "Union Territory",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Central",
       "East",
       "New Delhi",
@@ -5002,7 +5002,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "North Goa",
       "South Goa"
     ],
@@ -5364,7 +5364,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Ahmadabad (Ahmedabad)",
       "Amreli",
       "Anand",
@@ -7140,7 +7140,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Ambala",
       "Bhiwani",
       "Faridabad",
@@ -7941,7 +7941,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Bilaspur",
       "Chamba",
       "Hamirpur",
@@ -8258,7 +8258,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Anantnag",
       "Badgam",
       "Bandipore (Bandipora)",
@@ -8900,7 +8900,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Bokaro",
       "Chatra",
       "Deoghar",
@@ -10074,7 +10074,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Bagalkot",
       "Bangalore",
       "Bangalore Rural",
@@ -11849,7 +11849,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Alappuzha",
       "Ernakulam",
       "Idukki",
@@ -14473,7 +14473,7 @@
     "status": "Union Territory",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Agatti",
       "Amini",
       "Andrott",
@@ -14628,7 +14628,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Alirajpur",
       "Anuppur",
       "Ashoknagar",
@@ -17068,7 +17068,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Ahmadnagar (Ahmednagar)",
       "Akola",
       "Amravati",
@@ -19783,7 +19783,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Bishnupur",
       "Chandel",
       "Churachandpur",
@@ -20057,7 +20057,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "East Garo Hills",
       "East Khasi Hills",
       "Jaintia Hills",
@@ -20184,7 +20184,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Aizawl",
       "Champhai",
       "Kolasib",
@@ -20317,7 +20317,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Dimapur",
       "Kiphire",
       "Kohima",
@@ -20468,7 +20468,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Anugul (Angul)",
       "Balangir",
       "Baleshwar (Balasore)",
@@ -21623,7 +21623,7 @@
     "status": "Union Territory",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Karaikal",
       "Mahe",
       "Puducherry (Pondicherry)",
@@ -21687,7 +21687,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Amritsar",
       "Barnala",
       "Bathinda",
@@ -22802,7 +22802,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Ajmer",
       "Alwar",
       "Banswara",
@@ -24330,7 +24330,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "East District",
       "North District",
       "South District",
@@ -24389,7 +24389,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Ariyalur",
       "Chennai",
       "Coimbatore",
@@ -29916,7 +29916,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Adilabad",
       "Hyderabad",
       "Karimnagar",
@@ -30726,7 +30726,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Dhalai",
       "North Tripura",
       "South Tripura",
@@ -30950,7 +30950,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Almora",
       "Bageshwar",
       "Chamoli",
@@ -31548,7 +31548,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Agra",
       "Aligarh",
       "Allahabad",
@@ -36204,7 +36204,7 @@
     "status": "State",
     "country": "India",
     "iso2": "IN",
-    "district": [
+    "districts": [
       "Bankura",
       "Barddhaman (Burdwan)",
       "Birbhum",
